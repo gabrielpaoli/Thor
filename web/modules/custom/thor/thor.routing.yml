@@ -1,0 +1,6 @@
+thor.homepage:
+  path: 'homepage'
+  defaults:
+    _controller: '\Drupal\thor\Controller\ThorPages::homepage'
+  requirements:
+    _access: 'TRUE'

@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function thor_theme($existing, $type, $theme, $path) {
+  return [
+    'homepage_theme' => [
+      'template' => 'homepage-theme',
+      'variables' => [
+        'data' => [],
+      ],
+    ],
+  ];
+}

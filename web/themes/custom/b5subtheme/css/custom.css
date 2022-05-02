@@ -1,0 +1,13 @@
+.box-buttons{
+  margin-top: -60px;
+}
+
+.box-buttons .btn{
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+}
+
+.box-buttons a{
+  text-decoration: none;
+}

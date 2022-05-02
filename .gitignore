@@ -1,0 +1,14 @@
+web/core
+web/libraries
+web/modules/contrib
+web/profiles/contrib
+web/themes/contrib
+web/vendor/*
+web/sites/default/files
+!source/*/.gitkeep
+vendor/*
+composer.lock
+/.ddev/
+# Ignore dev and IDE files
+/**/.idea/*
+.idea

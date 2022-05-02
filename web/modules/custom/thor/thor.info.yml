@@ -1,0 +1,6 @@
+name: 'Thor'
+type: module
+description: 'This module provide a simple way to organize thor functionalities'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'Custom'
